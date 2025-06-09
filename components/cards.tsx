@@ -120,10 +120,7 @@ const TestimonialsSwiper: React.FC = () => {
   const nextRef = useRef(null);
 
   return (
-    <div
-      className='max-w-4xl mx-auto px-4 relative'
-      style={{ backgroundImage: 'url(/back.jpg)' }}
-    >
+    <div className='max-w-4xl mx-auto px-4 relative'>
       <h2 className='text-3xl text-gray-700 font-extrabold text-center mb-12'>
         Voices of Success with Sales Fortuna
       </h2>
